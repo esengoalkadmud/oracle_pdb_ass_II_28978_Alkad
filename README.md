@@ -70,5 +70,9 @@ Evidence: see ```**screenshots/oem_dashboard/**```
 ## Integrity Statement
 I, confirm that this work is entirely my own, completed individually. No commands, screenshots, or repositories were copied from classmates. All evidence presented here reflects real work performed on my own Oracle 26ai Free environment. even you can obsever throughout my screenshots
 
+## Submission Details
 
+Repository Link: https://github.com/esengoalkadmud/oracle_pdb_ass_II_28978_Alkad
+PDB Name Created: Al_pdb_28978
+Issues Encountered: Yes,
 
