@@ -72,7 +72,7 @@ I, confirm that this work is entirely my own, completed individually. No command
 
 ## Submission Details
 
-Repository Link: https://github.com/esengoalkadmud/oracle_pdb_ass_II_28978_Alkad
-PDB Name Created: Al_pdb_28978
-Issues Encountered: Yes,
+Repository Link: https://github.com/esengoalkadmud/oracle_pdb_ass_II_28978_Alkad<br>
+PDB Name Created: Al_pdb_28978<br>
+Issues Encountered: Yes<br>
 
